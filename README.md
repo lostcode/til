@@ -16,7 +16,7 @@ Hoping to track stuff I learn every day.
 
 ### Python
 
-- ["as" vs "," in catching exception](as_vs_comma_exception.md)
+- [02/10/2016 | "as" vs "," in catching exception](as_vs_comma_exception.md)
 
 ## About
 
