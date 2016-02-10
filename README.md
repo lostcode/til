@@ -8,16 +8,11 @@ Hoping to track stuff I learn every day.
 
 ### Categories
 
-* [Git](#git)
-* [Mac](#mac)
+* [MySQL](#mysql)
 
-### Git
+### MySQL
 
-- [Accessing a Lost Commit](git/accessing-a-lost-commit.md)
-
-### Mac
-
-- [Default Screenshot Location](mac/default-screenshot-location.md)
+- [CHAR vs. VARCHAR](mysql/char_vs_varchar.md)
 
 ## About
 
