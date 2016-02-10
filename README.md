@@ -14,6 +14,10 @@ Hoping to track stuff I learn every day.
 
 - [02/09/2016 | CHAR vs. VARCHAR](mysql/char_vs_varchar.md)
 
+### Python
+
+- ["as" vs "," in catching exception](as_vs_comma_exception.md)
+
 ## About
 
 I shamelessly stole this idea from
