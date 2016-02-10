@@ -12,7 +12,7 @@ Hoping to track stuff I learn every day.
 
 ### MySQL
 
-- [CHAR vs. VARCHAR](mysql/char_vs_varchar.md)
+- [02/09/2015 | CHAR vs. VARCHAR](mysql/char_vs_varchar.md)
 
 ## About
 
