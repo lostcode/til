@@ -8,7 +8,8 @@ Hoping to track stuff I learn every day.
 
 ### Categories
 
-* [MySQL](#mysql)
+* [Databases](#databases)
+* [Python](#python)
 
 ### Databases
 
