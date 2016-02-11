@@ -10,9 +10,10 @@ Hoping to track stuff I learn every day.
 
 * [MySQL](#mysql)
 
-### MySQL
+### Databases
 
-- [02/09/2016 | CHAR vs. VARCHAR](mysql/char_vs_varchar.md)
+- [02/09/2016 | CHAR vs. VARCHAR](database/char_vs_varchar.md)
+- [02/11/2016 | [SQLite ignores length restrictions](database/sqlite_length_restrictions.md)
 
 ### Python
 
