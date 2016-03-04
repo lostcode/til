@@ -14,7 +14,8 @@ Hoping to track stuff I learn every day.
 ### Databases
 
 - [02/09/2016 | CHAR vs. VARCHAR](database/char_vs_varchar.md)
-- [02/11/2016 | SQLite ignores length restrictions](database/sqlite_length_restrictions.md)
+- [02/11/2016 | [SQLite ignores length restrictions](database/sqlite_length_restrictions.md)
+- [03/04/2016 | [MySQL ignores ASC/DESC "create index"](database/mysql_ignores_asc_desc_index.md)
 
 ### Python
 
