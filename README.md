@@ -10,6 +10,7 @@ Hoping to track stuff I learn every day.
 
 * [Databases](#databases)
 * [Python](#python)
+* [Web](#web)
 
 ### Databases
 
@@ -20,6 +21,10 @@ Hoping to track stuff I learn every day.
 ### Python
 
 - [02/10/2016 | "as" vs "," in catching exception](python/as_vs_comma_exception.md)
+
+### Web
+
+- [03/17/2016 | Next HTTP method on a 302 redirect](web/302_redirect_next_method.md)
 
 ## About
 
